@@ -1,0 +1,16 @@
+
+
+
+
+
+grid -container
+    <section  
+        sidebar
+            header
+            text
+            footer              // sidebar
+    
+    >
+    .main
+        <MapComponent>
+
